@@ -8,7 +8,7 @@
 
 Created a Cupcake Shop website featuring a best cupcake advertisement along with a list of 5 different cupcakes available with pictures of each cupcake.
 
-## Technologye Used
+## Technology Used
 
 HTML and CSS and styling using classes
 
