@@ -1,2 +1,3 @@
 Epicodus Day 3 Cupcake Shop
-Created by Brian Palowski and Steven Colburn 
+05/23/2018
+Created by Brian Palowski and Steven Colburn
