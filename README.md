@@ -12,7 +12,7 @@ Created a Cupcake Shop website featuring a best cupcake advertisement along with
 
 HTML and CSS and styling using classes
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/cupcake-shop.git
 or https://github.com/bscott9592/cupcake_shop.git
 
